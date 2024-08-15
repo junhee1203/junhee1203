@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Experience
+- 크래프톤 정글 3기 (2023.10 ~ 2024.02)
+- 네이버 커넥트재단 부스트캠프  웹・모바일 9기 (2024.06 ~ ing)
