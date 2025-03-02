@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**아직 갈 길이 먼 프론트엔드 개발자 🏃‍♂️**
+**미니멀리즘을 추구하는 프론트엔드 개발자 🏃‍♂️**
 
-**언젠간 백엔드도 잘하고 싶은 프론트엔드 개발자 🛬**
+**수학 문제 푸는 것을 좋아하는 프론트엔드 개발자 🛬**
 
-**어쩌다 개발자가 되어버린 수학 전공한 프론트엔드 개발자 😀**
 
 ## 🛠 skills
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
