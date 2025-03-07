@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-## 🚀Experience
+## 🚀 Experience
 - 크래프톤 정글 3기 (2023.10 ~ 2024.02)
 - 네이버 부스트캠프 웹・모바일 9기 (2024.06 ~ 2024.12)
 
+## 📈 Career
+- [**토스증권**](https://toss.im/career/tosssecurities) (계약직 2025.03 ~ ing)
   ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=00B5E2)
