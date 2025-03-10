@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 
 ## 🚀 Experience
-- 크래프톤 정글 3기 (2023.10 ~ 2024.02) | [링크](https://jungle.krafton.com/)
-- 네이버 부스트캠프 웹・모바일 9기 (2024.06 ~ 2024.12) | [링크](https://boostcamp.connect.or.kr/)
+- 크래프톤 정글 3기 (2023.10 ~ 2024.02) | <a href="https://jungle.krafton.com/" target="_blank">링크</a>
+- 네이버 부스트캠프 웹・모바일 9기 (2024.06 ~ 2024.12) | <a href="https://boostcamp.connect.or.kr/" target="_blank">링크</a>
 
 ## 📈 Career
 - 토스증권 (계약직 2025.03 ~ ing) | [링크](https://toss.im/career/tosssecurities)
