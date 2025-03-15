@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 -->
 **미니멀리즘을 추구하는 프론트엔드 개발자 🏃‍♂️**
 
-**수학 문제 푸는 것을 좋아하는 프론트엔드 개발자 🛬**
-
 
 ## 🛠 skills
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
