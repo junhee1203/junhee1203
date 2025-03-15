@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 - 네이버 부스트캠프 웹・모바일 9기 (2024.06 ~ 2024.12) | <a href="https://boostcamp.connect.or.kr/" target="_blank">링크</a>
 
 ## 📈 Career
-- 토스증권 (계약직 2025.03 ~ ing) | [링크](https://toss.im/career/tosssecurities)
+- 🔵 토스증권 (계약직 2025.03 ~ ing) | [링크](https://toss.im/career/tosssecurities)
   ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=00B5E2)
