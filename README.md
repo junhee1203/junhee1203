@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 
 ## 📈 Career
 - 🔵 토스증권 (계약직 2025.03 ~ ing) | [링크](https://toss.im/career/tosssecurities)
+  - Compliance Product Team / **자금세탁방지(AML) 시스템** 클라이언트 개발
   ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=00B5E2)
