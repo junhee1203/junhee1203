@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **junhee1203/junhee1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Frontend Developer
+
+
+## 🚀 Experience
+- 크래프톤 정글 3기 (2023.10 ~ 2024.02) | <a href="https://jungle.krafton.com/" target="_blank">링크</a>
+- 네이버 부스트캠프 웹・모바일 9기 (2024.06 ~ 2024.12) | <a href="https://boostcamp.connect.or.kr/" target="_blank">링크</a>
